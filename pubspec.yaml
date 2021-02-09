@@ -1,7 +1,7 @@
 name: flutter_volume
 description: A flutter plugin for device volume control.
 version: 0.0.1
-homepage:
+homepage: https://github.com/chavesgu/flutter_volume
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
